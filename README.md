@@ -9,7 +9,7 @@
 
 **🚀 An intelligent K-Nearest Neighbors Based Book Recommendation System**
 
-## 🌐 [**TRY THE APP LIVE**](https://your-app-link.streamlit.app/) 🌐
+## 🌐 [**TRY THE APP LIVE**](https://book-recommendation-system-6yti.onrender.com) 🌐
 
 </div>
 
