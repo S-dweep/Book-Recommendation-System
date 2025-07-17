@@ -9,6 +9,8 @@
 
 **🚀 An intelligent K-Nearest Neighbors Based Book Recommendation System**
 
+## 🌐 [**TRY THE APP LIVE**](https://your-app-link.streamlit.app/) 🌐
+
 </div>
 
 ## 📹 Demo Video
@@ -190,6 +192,9 @@ Found a bug? Please open an issue with:
 - **Algorithm**: K-Nearest Neighbors with collaborative filtering
 - **Distance Metric**: Euclidean distance
 - **Recommendation Count**: Top 5 similar books
+
+### 📖 Additional Resources
+- [📊 Dataset Link] https://www.kaggle.com/datasets/ra4u12/bookrecommendation
 
 ---
 
